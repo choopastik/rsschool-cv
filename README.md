@@ -1,2 +1,2 @@
 # rsschool-cv
-Repo for RSschool_stage0_CV1
+https://choopastik.github.io/rsschool-cv/cv
